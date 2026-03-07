@@ -1,0 +1,8 @@
+# PostgreSQL connection string (pooled, for Prisma queries)
+DATABASE_URL=
+
+# PostgreSQL direct connection string (for Prisma migrations)
+DIRECT_URL=
+
+# Groq API key — https://console.groq.com
+GROQ_API_KEY=
